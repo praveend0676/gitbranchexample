@@ -27,3 +27,18 @@ Create Branch ↓ Switch to Branch ↓ Develop Feature ↓ Commit Changes ↓ Sw
 | `git log --oneline --graph --all` | Shows the complete commit and branch history visually.    |
 
 # gitbranchexample
+
+
+* 8adb6c8 (HEAD -> main, origin/main) first commit
+* 6e85772 all changes+1
+* fd00263 all changes
+*   f7d78a9 Resolving 2nd merge conflit
+|\  
+| * b4d5e18 (feature-dashboard) Update from feature-dashboard brach
+* |   692f981 Resolving main.py merge conflicts
+|\ \  
+| * | 6d279ff (feature-profile) Update from eature-profile branch
+| |/  
+* / 254d295 (feature-login) Update from feafeature-login branch
+|/  
+* d7fbef5 Initial Learning platform for git branching
